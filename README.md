@@ -1,1 +1,1 @@
-load script logs load files and change vars
+diamante cosmos draw
